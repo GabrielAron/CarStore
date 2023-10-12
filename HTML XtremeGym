@@ -1,0 +1,209 @@
+<html>
+<body>
+<h2>Create Car</h2>
+
+<form action="/create-car" method="post">
+
+    <label>Car Name</label>
+    <input type="text" name="car-name" id="car-name">
+
+    <button type="submit">Register</button>
+
+</form>
+
+</body>
+</html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <title>Dashboard</title>
+
+    <div id="Logo_Academia">
+        <img src="chama imagem aq" alt="Logo XtremeGym">
+    </div>
+    <div id="Header_lista">
+        <div id="Menu_Links">
+            <a href="">Sobre</a>
+            <a href="">Serviços</a>
+            <a href="">Galeria</a>
+            <a href="">Avaliações</a>
+            <a href="">Recursos</a>
+            <a href="">Social</a>
+            <a href="">Fale conosco</a>
+            <a href="">Login</a>
+            <a href="">Cadastre-se</a>
+            <a href="">Treinos</a>
+        </div>
+        <div id="Nome_Botao_SaibaMais">
+            <h1>
+                XtremeGym
+            </h1>
+            <button name="Saiba_mais">Saiba mais</button>
+
+        </div>
+        <img src="chama imagem aq" alt="Background">
+
+
+    </div>
+</head>
+<body>
+<div id="Quem somos">
+    <h2>Quem Somos</h2>
+    <div id="Quem_somos_texto">
+
+        Somos os melhores no nosso segmento, e é tudo graças
+        aos relacionamentos incríveis que formamos com nossos clientes.
+        Ao contrário dos nossos concorrentes, somos dedicados ao
+        desenvolvimento de uma conexão pessoal com cada um dos nossos clientes.
+        Para isso, prestamos serviços de qualidade e estamos à disposição 24 horas
+        por dia, 7 dias por semana. Entre em contato conosco quando estiver pronto
+        para saber mais. Teremos o prazer de conhecê-lo!
+    </div>
+
+</div>
+<div id="Serviços_academia">
+    <h2>Nossos Serviços</h2>
+    <figure>
+        <img src="Plano_Essential">
+        <figcaption> Plano Essential</figcaption>
+        <figcaption>Benefícios:
+            Acesso total às instalações da academia, incluindo equipamentos de musculação e cardio.
+            Participação em aulas em grupo regulares, como yoga, zumba e spinning.
+            Acesso a vestiários e chuveiros.
+        </figcaption>
+    </figure>
+    <figure>
+        <img src="Plano Plus">
+        <figcaption>Plano Plus</figcaption>
+        <figcaption>Benefícios:
+            Todos os benefícios do Plano Essential.
+            Acesso ilimitado a aulas especiais, como treinamento funcional e pilates.
+            Acompanhamento personalizado de um instrutor para auxiliar no estabelecimento de metas e monitoramento do
+            progresso.
+            Acesso a serviços de nutrição e orientação dietética.
+        </figcaption>
+    </figure>
+    <figure>
+        <img src="Plano Premium">
+        <figcaption>Plano Premium</figcaption>
+        <figcaption>Benefícios:
+            Todos os benefícios do Plano Plus.
+            Acesso exclusivo a áreas VIP da academia, com equipamentos premium e ambiente mais privativo.
+            Aulas exclusivas em grupos reduzidos, com treinadores especializados.
+            Acesso a serviços de massagem e relaxamento.
+            Acompanhamento com nutricionista
+        </figcaption>
+    </figure>
+</div>
+<div id="Imagens Galeria">
+    <h2>Galeria</h2>
+    <img src="imagem galeria 1 ">
+    <img src="imagem galeria 2 ">
+    <img src="imagem galeria 3 ">
+    <img src="imagem galeria 4 ">
+    <img src="imagem galeria 5 ">
+
+    <button>Obter</button>
+</div>
+<div id="Avaliacoes_Clientes">
+    <h2>Avaliações dos Clientes</h2>
+    <figure>
+        <img src="imagem Avaliador do site 1">
+        <figcaption>Thomas Henrique</figcaption>
+        <figcaption>
+            A academia oferece equipamentos modernos,
+            instalações bem conservadas e instrutores simpáticos.
+            As aulas em grupo são variadas e a atmosfera é acolhedora.
+            Recomendada para quem busca um ambiente acolhedor
+            com excelentes recursos.
+        </figcaption>
+    </figure>
+    <figure>
+        <img src="imagem Avaliador do site 2">
+        <figcaption>Julio Junior</figcaption>
+        <figcaption>A academia tem uma equipe receptiva,
+            equipamentos de primeira linha e uma ampla variedade
+            de opções. Os instrutores são altamente qualificados
+            e o ambiente é limpo e organizado. Recomendada para
+            quem busca qualidade e um ambiente amigável.
+        </figcaption>
+    </figure>
+    <figure>
+        <img src="imagem Avaliador do site 3">
+        <figcaption>Fernada Pereira</figcaption>
+        <figcaption>
+            A academia oferece instrutores atenciosos,
+            equipamentos modernos e uma variedade de aulas.
+            A atmosfera é energética e motivadora.
+            Recomendada para quem busca uma experiência
+            de condicionamento físico excepcional.
+        </figcaption>
+    </figure>
+    <figure>
+        <figcaption>Gabriel Tavares</figcaption>
+        <figcaption>
+            A academia possui funcionários profissionais,
+            equipamentos de última geração e uma variedade
+            de opções de treinamento. As aulas em grupo são
+            divertidas e desafiadoras. As instalações são limpas e
+            bem organizadas. Recomendada para quem busca um ambiente
+            acolhedor e recursos de alta qualidade.
+        </figcaption>
+    </figure>
+</div>
+<div id="Recursos">
+    <figure>
+        <link rel="icon"
+        //icone de diamante>
+        <h4>Melhor qualidade</h4>
+        <div>
+            Garantimos sua total
+            Satisfação
+        </div>
+    </figure>
+    <figure>
+        <link rel="icon"
+        //icone de casa>
+        <h4>Suporte 24/7</h4>
+        <div>
+            Nosso suporte por telefone está sempre
+            à sua disposição
+        </div>
+    </figure>
+    <figure>
+        <link rel="icon"
+        //icone de relogio>
+        <h4>Preços competitivos</h4>
+        <div>
+            O melhor custo-benefício
+        </div>
+    </figure>
+    <figure>
+        <link rel="icon"
+        //icone de frutas>
+        <h4>Parceria nutritiva</h4>
+        <div>
+            Nossos nutricionistas parceiros
+            ficaram felizes em te ajudar, cajo seja o caso.
+        </div>
+    </figure>
+    <div id="Botao_FaleConosco">
+        <button>Fale conosco</button>
+    </div>
+</div>
+<div id="Social">
+    <h2>Social</h2>
+    icons facebook twitter instagram linkedim etc
+</div>
+
+<div id="Fale conosco">
+    <h2>Fale conosco</h2>
+    <div>
+        Estamos disponíveis para ajudar! Envie-nos quaisquer perguntas que você tiver.
+        Esperamos receber notícias suas.
+    </div>
+
+</div>
+
+</body>
+</html>
